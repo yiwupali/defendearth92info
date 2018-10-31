@@ -1,15 +1,13 @@
-# 帕丽捕鱼大玩家
+# TaoMe
 
 ![](1.png)
 
 ```
 
-经典捕鱼游戏，刺激好玩。
-1.欢乐大撒网，金币洒满天。 
-2.大家都在玩，刺激欢乐多。
-3.争做大玩家，天天来捕鱼。
+In ten seconds, quickly tap the screen to see who can knock out the maximum number of times in ten seconds.
+Challenge, who is the fastest person.
 ```
 
 
 
-联系方式:xjf7648@163.com
+mail:ledouyouxi1@aliyun.com
