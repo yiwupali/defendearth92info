@@ -1,13 +1,12 @@
-# TaoMe
+# 守护地球92
 
 ![](1.png)
 
 ```
 
-In ten seconds, quickly tap the screen to see who can knock out the maximum number of times in ten seconds.
-Challenge, who is the fastest person.
+守护地球的游戏，打陨石，就卫星，看谁能坚持最久.
 ```
 
 
 
-mail:ledouyouxi1@aliyun.com
+mail:huo3192@163.com
